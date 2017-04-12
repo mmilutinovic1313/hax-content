@@ -1,0 +1,34 @@
+<link rel="import" href="../polymer/polymer.html">
+
+<!--
+`hax-content`
+A LRN element
+
+@demo demo/index.html 
+-->
+
+<dom-module id="hax-content">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+    <h2>Hello [[prop1]]</h2>
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'hax-content',
+
+      properties: {
+        prop1: {
+          type: String,
+          value: 'hax-content',
+        },
+      },
+
+    });
+  </script>
+</dom-module>
