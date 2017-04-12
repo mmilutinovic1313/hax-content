@@ -1,6 +1,6 @@
-# \<hax-content\>
+# \<hax-manager\>
 
-A LRN element
+
 
 ## Install the Polymer-CLI
 

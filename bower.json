@@ -1,10 +1,14 @@
 {
-  "name": "hax-content",
-  "description": "A LRN element",
-  "main": "hax-content.html",
+  "name": "hax-manager",
+  "main": "hax-manager.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
-    "lrnsys-behaviors": "LRNWebComponents/lrnsys-behaviors#^1.0.0"
+    "app-layout": "PolymerElements/app-layout#^0.10.7",
+    "paper-tabs": "PolymerElements/paper-tabs#^1.8.0",
+    "lrndesign-card": "LRNWebComponents/lrndesign-card",
+    "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^1.1.5",
+    "paper-dialog": "PolymerElements/paper-dialog#^1.1.0",
+    "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote#^0.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
