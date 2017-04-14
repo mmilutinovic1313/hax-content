@@ -10,7 +10,8 @@
     "paper-dialog": "PolymerElements/paper-dialog#^1.1.0",
     "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote#^0.0.1",
     "lrn-icons": "LRNWebComponents/lrn-icons#^1.0.5",
-    "lrndesign-block": "LRNWebComponents/lrndesign-block#^0.0.3"
+    "lrndesign-block": "LRNWebComponents/lrndesign-block#^0.0.3",
+    "lrndesign-avatar": "LRNWebComponents/lrndesign-avatar#^0.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
