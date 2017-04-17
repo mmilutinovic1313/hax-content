@@ -5,13 +5,14 @@
     "polymer": "Polymer/polymer#^1.4.0",
     "app-layout": "PolymerElements/app-layout#^0.10.7",
     "paper-tabs": "PolymerElements/paper-tabs#^1.8.0",
-    "lrndesign-card": "LRNWebComponents/lrndesign-card",
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^1.1.5",
     "paper-dialog": "PolymerElements/paper-dialog#^1.1.0",
     "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote#^0.0.2",
     "lrn-icons": "LRNWebComponents/lrn-icons#^1.0.5",
-    "lrndesign-block": "LRNWebComponents/lrndesign-block#^0.0.3",
-    "lrndesign-avatar": "LRNWebComponents/lrndesign-avatar#^0.0.2"
+    "lrndesign-card": "LRNWebComponents/lrndesign-card#^0.0.3",
+    "lrndesign-contentblock": "LRNWebComponents/lrndesign-contentblock#^0.0.2",
+    "lrndesign-avatar": "LRNWebComponents/lrndesign-avatar#^0.0.2",
+    "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^0.0.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
