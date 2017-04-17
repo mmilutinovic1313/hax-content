@@ -12,7 +12,7 @@
     "lrndesign-card": "LRNWebComponents/lrndesign-card#^0.0.3",
     "lrndesign-contentblock": "LRNWebComponents/lrndesign-contentblock#^0.0.3",
     "lrndesign-avatar": "LRNWebComponents/lrndesign-avatar#^0.0.2",
-    "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^0.0.3"
+    "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^0.0.4"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
