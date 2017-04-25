@@ -1,0 +1,26 @@
+{
+  "name": "lrndesign-abbreviation",
+  "description": "A wrapper to make a cleaner abbreviation deign element",
+  "main": "lrndesign-abbreviation.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "paper-tooltip": "PolymerElements/paper-tooltip#^1.1.3"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/LRNWebcomponents/lrndesign-abbreviation",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "106c2d2ad49231dba3efddc3a7fbb0b0cd9ad4e6"
+  },
+  "_source": "https://github.com/LRNWebcomponents/lrndesign-abbreviation.git",
+  "_target": "^0.0.1",
+  "_originalSource": "LRNWebcomponents/lrndesign-abbreviation"
+}

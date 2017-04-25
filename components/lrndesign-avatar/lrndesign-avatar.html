@@ -1,0 +1,75 @@
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../paper-avatar/paper-avatar.html">
+<!--
+`lrndesign-avatar`
+A LRN element
+
+@demo demo/index.html 
+-->
+
+<dom-module id="lrndesign-avatar">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+    <paper-avatar label="{{label}}" src="{{src}}" two-chars="{{twoChars}}" colors="{{colors}}" jdenticon="{{jdenticon}}"></paper-avatar>
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'lrndesign-avatar',
+
+      properties: {
+        /**
+         * text to use for avatar
+         * @type {Object}
+         */
+        label: {
+          type: String,
+          value: 'lrndesign-avatar',
+        },
+        /**
+         * link to an image, optional
+         * @type {Object}
+         */
+        src: {
+          type: String
+        },
+        /**
+         * Mode for presenting 1st two letters
+         * @type {Object}
+         */
+        twoChars: {
+          type: Boolean,
+          value: false
+        },
+        /**
+         * array of colors to draw from
+         * @type {Object}
+         */
+        colors: {
+          type: Array,
+        },
+        /**
+         * Form abstract art from hash of label
+         * @type {Object}
+         */
+        jdenticon: {
+          type: Boolean,
+          value: false
+        }
+      },
+      /**
+       * Present self as a demo.
+       * @return {[type]} [description]
+       */
+      _demoInit: function() {
+        this.label = 'Label';
+        this.twoChars = true;
+      },
+    });
+  </script>
+</dom-module>

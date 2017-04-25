@@ -1,0 +1,26 @@
+{
+  "name": "hax-manager",
+  "main": "hax-manager.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "app-layout": "PolymerElements/app-layout#^0.10.7",
+    "paper-tabs": "PolymerElements/paper-tabs#^1.8.0",
+    "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^1.1.5",
+    "paper-dialog": "PolymerElements/paper-dialog#^1.1.0",
+    "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote#^0.0.5",
+    "lrn-icons": "LRNWebComponents/lrn-icons#^1.0.5",
+    "lrndesign-card": "LRNWebcomponents/lrndesign-card#^0.0.3",
+    "lrndesign-contentblock": "LRNWebComponents/lrndesign-contentblock#^0.0.3",
+    "lrndesign-avatar": "LRNWebcomponents/lrndesign-avatar#^0.0.2",
+    "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^0.0.4",
+    "lrndesign-abbreviation": "LRNWebcomponents/lrndesign-abbreviation#^0.0.1",
+    "hax-behaviors": "LRNWebcomponents/hax-behaviors#^0.0.6",
+    "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.7"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
