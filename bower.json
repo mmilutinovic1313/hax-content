@@ -15,7 +15,7 @@
     "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^0.0.4",
     "lrndesign-abbreviation": "LRNWebcomponents/lrndesign-abbreviation#^0.0.1",
     "hax-behaviors": "LRNWebcomponents/hax-behaviors#^0.0.6",
-    "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.4"
+    "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.7"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
