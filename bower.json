@@ -7,7 +7,7 @@
     "paper-tabs": "PolymerElements/paper-tabs#^1.8.0",
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^1.1.5",
     "paper-dialog": "PolymerElements/paper-dialog#^1.1.0",
-    "lrndesign-blockquote": "LRNWebcomponents/lrndesign-blockquote#^0.0.4",
+    "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote#^0.0.5",
     "lrn-icons": "LRNWebComponents/lrn-icons#^1.0.5",
     "lrndesign-card": "LRNWebcomponents/lrndesign-card#^0.0.3",
     "lrndesign-contentblock": "LRNWebComponents/lrndesign-contentblock#^0.0.3",
